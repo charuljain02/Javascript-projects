@@ -6,7 +6,7 @@ Each project is organized in its own folder with separate files for structure, s
 ---
 
 ## 🚀 Live Demo
-👉 https://charuljain02.github.io/project_chatgpt/
+👉 https://charuljain02.github.io/Javascript-projects/
 
 
 ## 📁 Project Structure
