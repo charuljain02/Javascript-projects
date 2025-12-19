@@ -1,0 +1,32 @@
+body{
+  color: rgb(68, 5, 16);
+}
+.bulb {
+  width: 321px;
+  height: 321px;
+  position: absolute;
+  top: 150px;
+}
+
+.animation {
+  width: 120px;
+  height: 40px;
+  background: rgb(212, 176, 165);
+  border-radius: 20px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  transition: background 0.3s;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+  background: rebeccapurple;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+

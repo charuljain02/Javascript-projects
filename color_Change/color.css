@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: rgb(235, 168, 168);
+}
+#btn{
+    background: rgb(24, 10, 22);
+    border: 2px solid rgb(148, 199, 44);
+    color: azure;
+    height: 23px;
+    width: 123px;
+}
+.color{
+    height: 95px;
+    width: 105px;
+}

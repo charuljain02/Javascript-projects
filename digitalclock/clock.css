@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgb(102, 79, 79);
+}
+.time{ 
+    background: rgb(158, 158, 121);
+    font-weight: 880;
+    font-style: inherit;
+    color: rgb(70, 2, 100);
+    width:  198px;
+    height: 189px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: inset;
+    box-sizing: content-box;
+
+}
