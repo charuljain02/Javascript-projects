@@ -10,6 +10,7 @@ Each project is organized in its own folder with separate files for structure, s
 
 
 ## 📁 Project Structure
+
 JAVASCRIPT_MINI/
 │
 ├── bulb_toggle/
@@ -44,7 +45,6 @@ JAVASCRIPT_MINI/
 │
 ├── index.html
 └── README.md
-
 
 ---
 
